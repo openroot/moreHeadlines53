@@ -1,0 +1,34 @@
+:	[ Suit ]
+$	| An analysis of a business proposal for lingerie for females. |
+?	| It has an enormous consumer base, categorically working females. |
+
+>	[ : ]                               | $                                 | ?                                 |
+..	[ Posture ]                         | Compatible enclosure              | Quality cast                      |
+1.	[ Eminence ]                        | Design concentric                 | Business account                  |
+2.	[ Justification ]                   | Authorised reseller               | General marketplace               |
+3.	[ Analytic ]                        | Promotional brand                 | Advertisement media               |
+4.	[ Sectorial ]                       | Recyclable material               | Low profit                        |
+5.	[ Compliance ]                      | Inventory affiliation             | Direct sales                      |
+6.	[ Candidate ]                       | Hierarchical expense              | Generous revision                 |
+7.	[ Eligibility ]                     | Organic developments              | Company employee                  |
+8.	[ Standard ]                        | Experience asymmetry              | Final hotlist                     |
+9.	[ Conservation ]                    | Corporate balance                 | Bridge generation                 |
+10.	[ Promise ]                         | Usage policy                      | Individual guarantee              |
+11.	[ Constructive ]                    | Material strength                 | Yearly turnover                   |
+12.	[ Evident ]                         | Provisional attachment            | Content specialisation            |
+13.	[ Destruction ]                     | Remove pattern                    | Refund stock                      |
+14.	[ Protection ]                      | Separate remittance               | Typical incentive                 |
+15.	[ Occasion ]                        |                                   |                                   |
+16.	[ Peripheral ]                      |                                   |                                   |
+17.	[ Convenience ]                     |                                   |                                   |
+18.	[ Specification ]                   |                                   |                                   |
+19.	[ Factorial ]                       |                                   |                                   |
+20.	[ Compilation ]                     |                                   |                                   |
+21.	[ Scenario ]                        |                                   |                                   |
+22.	[ Passphrase ]                      |                                   |                                   |
+23.	[ Community ]                       |                                   |                                   |
+24.	[ Inspection ]                      |                                   |                                   |
+25.	[ Certificate ]                     |                                   |                                   |
+26.	[ Documentation ]                   |                                   |                                   |
+::.	[ Signature ]                       |                                   |                                   |
+<	[ . ]                               | ^                                 | =                                 |

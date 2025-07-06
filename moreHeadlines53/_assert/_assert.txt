@@ -39,8 +39,13 @@ n. Miss				o. Facility			p. Break			q. Bill				r. Pace				s. Extract			t. Occur	
 2. End				
 
 1. Start			
-a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
-n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
+a. Bath				b. Pamphlet			c. Destination		d. Fixture			e. Journey			f. Blog				g. Diary			h. Welcome			i. Slam				j. Bang				k. Hotlist			l. Boucher			m. Territory		
+n. Roam				o. Leaflet			p. Photograph		q. Spa				r. Explore			s. Caravan			t. Collection		u. Fresh			v. Moment			w. Statement		x. Garage			y. Booklet			z. State			
+2. End				
+
+1. Start			
+a. Program			b. Read				c. Thing			d. Role				e. Previous			f. Cube				g. Cone				h. Prism			i. Helix			j. Pyramid			k. Slab				l. Block			m. Unary			
+n. Tertiary			o. Binary			p. Hexagon			q. Polygon			r. Torus			s. Box				t. Cylinder			u. Sphere			v. Next				w. Reason			x. Buzz				y. Write			z. Code				
 2. End				
 
 1. Start			

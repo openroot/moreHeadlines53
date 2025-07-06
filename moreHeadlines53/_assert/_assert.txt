@@ -49,6 +49,11 @@ n. Tertiary			o. Binary			p. Hexagon			q. Polygon			r. Torus			s. Box				t. Cyli
 2. End				
 
 1. Start			
+a. Wear				b. Birth			c. Child			d. Parent			e. Guardian			f. Lord				g. Festival			h. Repository		i. Plan				j. Vigilance		k. Work				l. Cabin			m. Loan				
+n. Camp				o. Reserve			p. Part				q. Cause			r. Strategy			s. Fortune			t. Carnival			u. Asset			v. Virtue			w. God				x. Death			y. Lock				z. Augment			
+2. End				
+
+1. Start			
 a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
 n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
 2. End				

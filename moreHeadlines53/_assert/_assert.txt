@@ -34,6 +34,11 @@ n. Supreme			o. Match			p. Practise			q. Media			r. Garland			s. Relative			t. T
 2. End				
 
 1. Start			
+a. Feel				b. Carry			c. Plain			d. Expect			e. Minor			f. Major			g. Once				h. Twice			i. Thrice			j. True				k. Float			l. Side				m. Gaze				
+n. Miss				o. Facility			p. Break			q. Bill				r. Pace				s. Extract			t. Occur			u. Fast				v. Smart			w. Drop				x. Show				y. Beauty			z. Rest				
+2. End				
+
+1. Start			
 a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
 n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
 2. End				

@@ -54,8 +54,13 @@ n. Camp				o. Reserve			p. Part				q. Cause			r. Strategy			s. Fortune			t. Carn
 2. End				
 
 1. Start			
-a. Subject			b. Produce			c. Fundamental		d. According		e. Concept			f. Incur			g. Kind				h. Initiate			i. Resort			j. Passion			k. Normal			l. Directive		m. 					
-n. 					o. 					p. 					q. 					r. 					s. 					t. Action			u. Literal			v. Witness			w. Convergence		x. Basic			y. Sharp			z. Fame				
+a. Subject			b. Produce			c. Fundamental		d. According		e. Concept			f. Incur			g. Kind				h. Initiate			i. Resort			j. Passion			k. Normal			l. Directive		m. New				
+n. Placard			o. Swift			p. Lead				q. Practical		r. Roll				s. Symphony			t. Action			u. Literal			v. Witness			w. Convergence		x. Basic			y. Sharp			z. Fame				
+2. End				
+
+1. Start			
+a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
+n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
 2. End				
 
 1. Start			

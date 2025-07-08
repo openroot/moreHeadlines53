@@ -59,6 +59,11 @@ n. Placard			o. Swift			p. Lead				q. Practical		r. Roll				s. Symphony			t. Act
 2. End				
 
 1. Start			
+a. Event			b. Fine				c. Sheet			d. Master			e. Goal				f. Aim				g. Phase			h. Focus			i. Test				j. Level			k. Label			l. Blank			m. Boost			
+n. Base				o. Lap				p. Layer			q. Disk				r. Trump			s. Daemon			t. Load				u. Frequency		v. Permanent		w. Ready			x. Full				y. Bracket			z. Illustrate		
+2. End				
+
+1. Start			
 a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
 n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
 2. End				

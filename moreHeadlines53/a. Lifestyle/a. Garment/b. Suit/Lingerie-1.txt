@@ -20,15 +20,15 @@ $	| An analysis of a business proposal for lingerie for females. |
 14.	[ Protection ]                      | Separate remittance               | Typical incentive                 |
 15.	[ Occasion ]                        | Consensual promotion              | Generic disclosure                |
 16.	[ Peripheral ]                      | Sponsor sensitive                 | Popular exposure                  |
-17.	[ Convenience ]                     |                                   |                                   |
-18.	[ Specification ]                   |                                   |                                   |
-19.	[ Factorial ]                       |                                   |                                   |
-20.	[ Compilation ]                     |                                   |                                   |
-21.	[ Scenario ]                        |                                   |                                   |
-22.	[ Passphrase ]                      |                                   |                                   |
-23.	[ Community ]                       |                                   |                                   |
-24.	[ Inspection ]                      |                                   |                                   |
-25.	[ Certificate ]                     |                                   |                                   |
-26.	[ Documentation ]                   |                                   |                                   |
-::.	[ Signature ]                       |                                   |                                   |
+17.	[ Convenience ]                     | New brand                         | Brand potential                   |
+18.	[ Specification ]                   | Reciprocal coverage               | Transactional state               |
+19.	[ Factorial ]                       | Projection dynamic                | Conventional security             |
+20.	[ Compilation ]                     | Organisational decision           | Systematic improvement            |
+21.	[ Scenario ]                        | Immediate report                  | Consensus chart                   |
+22.	[ Passphrase ]                      | Minimum representation            | Acquired structure                |
+23.	[ Community ]                       | Origin entitlement                | Fresh acquisition                 |
+24.	[ Inspection ]                      | Via craftsmanship                 | Render prosperity                 |
+25.	[ Certificate ]                     | Board permission                  | Past accomplishment               |
+26.	[ Documentation ]                   | Complete agreement                | Promising growth                  |
+::.	[ Signature ]                       | Environment friendly              | Style statement                   |
 <	[ . ]                               | ^                                 | =                                 |

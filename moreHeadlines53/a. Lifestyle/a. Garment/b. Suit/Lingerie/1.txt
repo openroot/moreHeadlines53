@@ -1,6 +1,6 @@
 :	[ Lingerie ]
-$	| An analysis of a business proposal for lingerie for females. |
-?	| It has an enormous consumer base, categorically working females. |
+$	| A reasonably comparative analysis of a modern & new business proposal for lingerie for the female gender. |
+?	| The consumers are mostly working, enthusiastic, professional, fashionable, travelling, formal & artistic. |
 >	[ : ]-------------------------------| $                                 | ?                                 |
 ..	[ Posture ]-------------------------| Compatible enclosure              | Quality cast                      |
 1.	[ Eminence ]------------------------| Design concentric                 | Business account                  |
@@ -32,5 +32,5 @@ $	| An analysis of a business proposal for lingerie for females. |
 ::.	[ Signature ]-----------------------| Environment friendly              | Fashion statement                 |
 <	[ . ]-------------------------------| ^                                 | =                                 |
 .	[ Clothing ]
-^	|  |
-=	|  |
+^	| Distinctively, it is facing an increasing need, amongst other necessities, in the popular cloth segments. |
+=	| An interesting fact about it is hardly imaginable without heavily used elastic products in manufacturing. |

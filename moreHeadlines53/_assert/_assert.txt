@@ -69,8 +69,13 @@ n. Acute			o. Cross			p. Location			q. Complex			r. Balance			s. Care				t. Semi
 2. End				
 
 1. Start			
-a. 					b. 					c. 					d. 					e. 					f. 					g. 					h. 					i. 					j. 					k. 					l. 					m. 					
-n. 					o. 					p. 					q. 					r. 					s. 					t. 					u. 					v. 					w. 					x. 					y. 					z. 					
+a. Calculation		b. Building			c. Training			d. Learning			e. Manufacture		f. Transform		g. Cast				h. Migration		i. Integration		j. Delivering		k. Evolution		l. Ecosystem		m. Sharing			
+n. Service			o. Operation		p. Conversion		q. Intelligence		r. Fraction			s. Infrastructure	t. Real				u. Security			v. Task				w. Agency			x. Empower			y. Payment			z. Finance			
+2. End				
+
+1. Start			
+a. Sepia			b. Gradient			c. Radiant			d. Golden			e. Smudge			f. Burnish			g. Monolith			h. Floral			i. Sparkle			j. Sketch			k. Amber			l. Atomic			m. Common			
+n. Mutation			o. Traditional		p. Orthodox			q. Transparent		r. Enhance			s. Cartoon			t. Emboss			u. Fluorescent		v. Texture			w. Vivid			x. Greyscale		y. Vintage			z. Punch			
 2. End				
 
 1. Start			

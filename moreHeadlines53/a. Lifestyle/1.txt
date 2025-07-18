@@ -1,6 +1,6 @@
 :	[ Lifestyle ]
-$	|  |
-?	|  |
+$	| Generation |
+?	| Idea |
 >	[ : ]-------------------------------| $                                 | ?                                 |
 ..	[ Posture ]-------------------------| Information centre                | Record development                |
 1.	[ Eminence ]------------------------| Digital currency                  | Artificial intelligence           |
@@ -32,5 +32,5 @@ $	|  |
 ::.	[ Signature ]-----------------------| Portable derivative               | Schedule framework                |
 <	[ . ]-------------------------------| ^                                 | =                                 |
 .	[ Timestamp ]
-^	|  |
-=	|  |
+^	| Independent |
+=	| Information |

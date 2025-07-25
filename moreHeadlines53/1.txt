@@ -1,36 +1,36 @@
 :	[ moreHeadlines53 ]
-$	|  |
+$	| Incorporate |
 ?	|  |
 >	[ : ]-------------------------------| $                                 | ?                                 |
-..	[ Posture ]-------------------------|                                   |                                   |
-1.	[ Eminence ]------------------------|                                   |                                   |
-2.	[ Justification ]-------------------|                                   |                                   |
-3.	[ Analytic ]------------------------|                                   |                                   |
-4.	[ Sectorial ]-----------------------|                                   |                                   |
-5.	[ Compliance ]----------------------|                                   |                                   |
-6.	[ Candidate ]-----------------------|                                   |                                   |
-7.	[ Eligibility ]---------------------|                                   |                                   |
-8.	[ Standard ]------------------------|                                   |                                   |
-9.	[ Conservation ]--------------------|                                   |                                   |
-10.	[ Promise ]-------------------------|                                   |                                   |
-11.	[ Constructive ]--------------------|                                   |                                   |
-12.	[ Evident ]-------------------------|                                   |                                   |
-13.	[ Destruction ]---------------------|                                   |                                   |
-14.	[ Protection ]----------------------|                                   |                                   |
-15.	[ Occasion ]------------------------|                                   |                                   |
-16.	[ Peripheral ]----------------------|                                   |                                   |
-17.	[ Convenience ]---------------------|                                   |                                   |
-18.	[ Specification ]-------------------|                                   |                                   |
-19.	[ Factorial ]-----------------------|                                   |                                   |
-20.	[ Compilation ]---------------------|                                   |                                   |
-21.	[ Scenario ]------------------------|                                   |                                   |
-22.	[ Passphrase ]----------------------|                                   |                                   |
-23.	[ Community ]-----------------------|                                   |                                   |
-24.	[ Inspection ]----------------------|                                   |                                   |
-25.	[ Certificate ]---------------------|                                   |                                   |
-26.	[ Documentation ]-------------------|                                   |                                   |
-::.	[ Signature ]-----------------------|                                   |                                   |
+..	[ Posture ]-------------------------| Enhancement                       | Company                           |
+1.	[ Eminence ]------------------------| Freedom                           | Assembly                          |
+2.	[ Justification ]-------------------| Corporation                       | Legislative                       |
+3.	[ Analytic ]------------------------| Domicile                          | Administrative                    |
+4.	[ Sectorial ]-----------------------| Ecosystem                         | Parliament                        |
+5.	[ Compliance ]----------------------| Globalisation                     | Republic                          |
+6.	[ Candidate ]-----------------------| Futuristic                        | Democracy                         |
+7.	[ Eligibility ]---------------------| Goods                             | Territory                         |
+8.	[ Standard ]------------------------| Statistics                        | Reservation                       |
+9.	[ Conservation ]--------------------| Productive                        | County                            |
+10.	[ Promise ]-------------------------| Report                            | Committee                         |
+11.	[ Constructive ]--------------------| Fund                              | Consulate                         |
+12.	[ Evident ]-------------------------| Finance                           | Department                        |
+13.	[ Destruction ]---------------------| Education                         | Religion                          |
+14.	[ Protection ]----------------------| Taxation                          | Institution                       |
+15.	[ Occasion ]------------------------| Service                           | Organisation                      |
+16.	[ Peripheral ]----------------------| Mutual                            | Delegation                        |
+17.	[ Convenience ]---------------------| Bureaucracy                       | Judiciary                         |
+18.	[ Specification ]-------------------| Mobility                          | Sheriff                           |
+19.	[ Factorial ]-----------------------| Processor                         | Township                          |
+20.	[ Compilation ]---------------------| Pact                              | Municipality                      |
+21.	[ Scenario ]------------------------| Employment                        | Constituency                      |
+22.	[ Passphrase ]----------------------| Convention                        | Military                          |
+23.	[ Community ]-----------------------| Investment                        | Ministry                          |
+24.	[ Inspection ]----------------------| Economy                           | Central                           |
+25.	[ Certificate ]---------------------| Cyberspace                        | Governance                        |
+26.	[ Documentation ]-------------------| Partnership                       | Presidency                        |
+::.	[ Signature ]-----------------------| Agreement                         | Enforcement                       |
 <	[ . ]-------------------------------| ^                                 | =                                 |
 .	[ occasionalChannel72 ]
-^	|  |
+^	| Reveal |
 =	|  |

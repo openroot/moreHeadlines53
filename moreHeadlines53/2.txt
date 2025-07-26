@@ -1,5 +1,5 @@
 :	[ moreHeadlines53 ]
-$	|  |
+$	| Information |
 ?	|  |
 >	[ : ]-------------------------------| $                                 | ?                                 |
 ..	[ Posture ]-------------------------| Touch Pad                         | Mouse Pointer                     |
@@ -32,5 +32,5 @@ $	|  |
 ::.	[ Signature ]-----------------------| Number Pad                        | Keyboard Shortcut                 |
 <	[ . ]-------------------------------| ^                                 | =                                 |
 .	[ occasionalChannel72 ]
-^	|  |
+^	| Edge |
 =	|  |
